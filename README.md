@@ -41,7 +41,7 @@
 ### - [SQL & PostgreSQL](./certificate/postgresql.pdf)
 
 [//]: # (### - [Python в web-разработке]&#40;./certificate/web-develop.pdf&#41;)
-### - [Django & DRF](./certificate/django drf.pdf)
+### - [Django & DRF](./certificate/django-drf.pdf)
 
 ## Обучение
 ### - [Декораторы](https://github.com/PbD49/home_task_decorators)
